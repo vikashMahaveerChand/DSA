@@ -622,3 +622,18 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.jaspersoft.studio 1 0 2022-01-29 21:43:14.397
 !MESSAGE Starting JaspersoftStudio bundle - Version: 6.18.1.final
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-29 22:38:35.630
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-29 22:38:35.630
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-29 22:38:35.631
+!MESSAGE buffering callback sts4.classpath.vRFmGboL Graphs false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-29 22:38:35.631
+!MESSAGE executing callback sts4.classpath.vRFmGboL 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-29 22:38:35.638
+!MESSAGE executing callback sts4.classpath.vRFmGboL SUCCESS [done]
